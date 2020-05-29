@@ -2,14 +2,12 @@
 Reverse Engineering a JFTTS2/UBI Filesystem from .bin file to files and folders.
 
 REVERSE ENGINEERING JFFS2 UBI FILESYSTEM (TP-LINK ROUTER) - for education only
-
 DEPENDANCIES:
 
-ARCH AUR NAME\t       PUBLIC REPOSITORIES FOR ANY SYSTEM</br>
-binwalk\t             https://github.com/ReFirmLabs/binwalk</br>
-ubi_reader/t          https://github.com/jrspruitt/ubi_reader</br>
-jefferson-git/t       https://github.com/sviehb/jefferson</br>
-Linux kernel/t        https://www.kernel.org/</br>
+binwalk:             https://github.com/ReFirmLabs/binwalk</br>
+ubi_reader:          https://github.com/jrspruitt/ubi_reader</br>
+jefferson-git:       https://github.com/sviehb/jefferson</br>
+Linux kernel:        https://www.kernel.org/</br>
 
 # Extract Filesystem
 Extracts a bin file to a filesystem (-e=extract, -M=recursivly, <FILENAME>=Input .bin file)</br>
