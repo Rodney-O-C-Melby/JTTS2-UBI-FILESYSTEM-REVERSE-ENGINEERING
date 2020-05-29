@@ -1,0 +1,4 @@
+*.cshrc linguist-detectable=true
+*.tcshrc linguist-detectable=true
+*.shrc linguist-detectable=true
+*.bashrc linguist-detectable=true
